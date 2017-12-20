@@ -19,8 +19,8 @@ subtitle: "Centre for emotional health"
 url: "https://the-deborah-ubee-trust.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+cover: "/img/deborah_ubee_trust_consulting_room.jpg"
+logo: "/img/logo.png"
 
 # Build settings
 markdown: kramdown
