@@ -422,12 +422,12 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 15px;
   line-height: 40px;
   font-weight: 600;
-  color: #333333;
+  color: #6e899e;
   text-transform: capitalize;
   position: relative;
 }
 #portfolio-work .block .portfolio-menu ul .active {
-  color: #655E7A;
+  color: #6e899e;
   position: relative;
 }
 #portfolio-work .block .portfolio-menu ul .active:before {
@@ -501,7 +501,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
-  color: #655E7A;
+  color: #6e899e;
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
