@@ -65,8 +65,8 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #F4FAFD;
-  padding: 30px 0;
+  background: #fff;
+  padding: 20px 0;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -80,15 +80,15 @@ header .navbar-default {
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-  padding-bottom: 10px;
+  padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 22px;
+  padding: 10px 26px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: #333333;
+  color: #000;
 }
 /*---------------------------------------------
 					Index Start
