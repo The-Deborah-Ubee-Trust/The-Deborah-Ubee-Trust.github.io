@@ -207,7 +207,7 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #477099;
+  background: #727a8e;
   opacity: 0.8;
 }
 #call-to-action h2 {
@@ -376,11 +376,11 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #c0d6e4, #9DC7E3);
   opacity: 0.8;
 }
 #global-header .block {
-  color: #E3E3E4;
+  color: #444447;
   margin: 0 auto;
   padding-left: 90px;
   text-align: center;
