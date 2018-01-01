@@ -4,6 +4,7 @@ title: Sports Massage and Swedish
 subtitle:
 date: 2016-05-20 21:11:27
 author: jekyll
+categories: holistic
 ---
 Sports Massage and Swedish
 

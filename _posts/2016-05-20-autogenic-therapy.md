@@ -4,6 +4,7 @@ title: Autogenic Therapy
 subtitle: 
 date: 2017-05-20 21:11:27
 author: jekyll
+categories: holistic
 ---
 Autogenic Therapy
 
