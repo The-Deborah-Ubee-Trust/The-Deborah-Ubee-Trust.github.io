@@ -37,7 +37,7 @@ permalink: /support/
 </section>
 <!-- fundraising news -->
 </section>
-{% for post in site.posts.fundraising %}
+{% for post in site.categories.fundraising %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p class="post-date">{{ post.date | date_to_long_string }}</p>
